@@ -10,3 +10,6 @@ The data structure could vary from multi dimensional array or Maps or whatever, 
 - Edge cases analysis needs to be done to ensure all cases are handled
 - Automated tests are mandatory to ensure the correctness of the solution
 - Proper error handling is also needed
+
+# To try
+To try this code copy paste the content of the Mainj.java file in an online IDE like https://www.jdoodle.com/online-java-compiler/ and use java 11 and run
